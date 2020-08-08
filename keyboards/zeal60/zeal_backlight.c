@@ -11,8 +11,6 @@
 #include "zeal_eeprom.h"
 #include "zeal_color.h"
 
-#include "is31fl3731.h"
-
 #define BACKLIGHT_EFFECT_MAX 11
 
 zeal_backlight_config g_config = {
